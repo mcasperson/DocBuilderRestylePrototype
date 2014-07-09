@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41878bc-f13e-45b4-83b1-6a4f99a90464" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" afterPath="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dummydata/dummy.js" afterPath="$PROJECT_DIR$/lib/dummydata/dummy.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" afterPath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DocBuilderRestyle.iws" />
@@ -72,11 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8366337" vertical-offset="415" max-vertical-offset="1455">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="77" />
+            <state vertical-scroll-proportion="-33.333332" vertical-offset="355" max-vertical-offset="1365">
+              <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -92,12 +93,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listbooks.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="listbooks.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.24661508" vertical-offset="0" max-vertical-offset="1034">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <marker date="1404882890843" expanded="true" signature="677:770" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="677:773" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="677:773" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="677:771" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="677:791" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="677:699" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:1020" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:1095" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:1120" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+                <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/lib/dummydata/dummy.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -127,10 +142,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/dummydata/dummy.js" />
-        <option value="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
         <option value="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" />
+        <option value="$PROJECT_DIR$/lib/dummydata/dummy.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
       </list>
     </option>
   </component>
@@ -197,6 +212,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DocBuilderRestyle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DocBuilderRestyle" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dummydata" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,7 +507,7 @@
       <created>1404875476202</created>
       <updated>1404875476202</updated>
       <workItem from="1404875481792" duration="3419000" />
-      <workItem from="1404878929358" duration="1867000" />
+      <workItem from="1404878929358" duration="3977000" />
     </task>
     <task id="LOCAL-00001" summary="Working on initial style prototype">
       <created>1404878969198</created>
@@ -492,11 +525,15 @@
       <created>1404880401195</created>
       <updated>1404880401195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working on initial style prototype">
+      <created>1404880799765</created>
+      <updated>1404880799765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5286000" />
+    <option name="totallyTimeSpent" value="7396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1207" extended-state="6" />
@@ -581,18 +618,10 @@
     <entry file="file://$PROJECT_DIR$/lib/dummydata/dummy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1034">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,9 +635,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8366337" vertical-offset="415" max-vertical-offset="1455">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="85" selection-end-column="77" />
+        <state vertical-scroll-proportion="-33.333332" vertical-offset="355" max-vertical-offset="1365">
+          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24661508" vertical-offset="0" max-vertical-offset="1034">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1404882890843" expanded="true" signature="677:770" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="677:773" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="677:773" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="677:771" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="677:791" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="677:699" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:1020" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:1095" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:1120" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+            <marker date="1404882890843" expanded="true" signature="936:981" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
