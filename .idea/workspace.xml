@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41878bc-f13e-45b4-83b1-6a4f99a90464" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" afterPath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DocBuilderRestyle.iws" />
@@ -507,7 +506,7 @@
       <created>1404875476202</created>
       <updated>1404875476202</updated>
       <workItem from="1404875481792" duration="3419000" />
-      <workItem from="1404878929358" duration="4535000" />
+      <workItem from="1404878929358" duration="4570000" />
     </task>
     <task id="LOCAL-00001" summary="Working on initial style prototype">
       <created>1404878969198</created>
@@ -541,11 +540,15 @@
       <created>1404883091539</created>
       <updated>1404883091539</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Working on initial style prototype">
+      <created>1404883468173</created>
+      <updated>1404883468173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7954000" />
+    <option name="totallyTimeSpent" value="7989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1207" extended-state="6" />
