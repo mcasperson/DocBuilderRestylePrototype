@@ -1,5 +1,5 @@
 .fadeText {
-    opacity: 0.2;
+    color: rgba(51, 51, 51, 0.20);
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -8,6 +8,6 @@
     transition:.5s;
 }
 
-.fadeText:hover {
-    opacity: 1;
+.fadeText:hover, .unFadeText {
+    color: rgb(51, 51, 51);
 }
