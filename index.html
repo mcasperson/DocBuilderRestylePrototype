@@ -1,25 +1,48 @@
 <!DOCTYPE html>
 <html>
-<head lang="en">
-    <link href="lib/patternfly/css/patternfly.css" rel="stylesheet" media="screen, print">
-    <script src="lib/jquery/jquery-2.1.1.min.js"></script>
-    <script src="lib/patternfly/js/patternfly.min.js"></script>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-<nav class="navbar navbar-default navbar-pf" role="navigation">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-            PressGang CCMS DocBuilder
-        </a>
-    </div>
-</nav>
-</body>
+    <head lang="en">
+        <link href="lib/patternfly/css/patternfly.css" rel="stylesheet" media="screen, print">
+        <script src="lib/jquery/jquery-2.1.1.min.js"></script>
+        <script src="lib/patternfly/js/patternfly.min.js"></script>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-pf" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    PressGang CCMS DocBuilder
+                </a>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <form class="form-horizontal">
+                        <fieldset>
+                            <legend>Filter</legend>
+
+                            <div class="form-group">
+                                <label class="col-md-1 control-label" for="product">Product</label>
+                                <div class="col-md-5">
+                                    <input id="product" type="text" placeholder="placeholder" class="form-control input-md">
+                                </div>
+
+                                <label class="col-md-1 control-label" for="version">Version</label>
+                                <div class="col-md-5">
+                                    <input id="version" type="text" placeholder="placeholder" class="form-control input-md">
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
