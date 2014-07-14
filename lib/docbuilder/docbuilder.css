@@ -1,13 +1,4 @@
-.fadeText {
-    color: rgba(51, 51, 51, 0.20);
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    /* ...and now for the proper property */
-    transition:.5s;
-}
-
-.fadeText:hover, .unFadeText {
-    color: rgb(51, 51, 51);
+.bookTitle {
+    display: inline-block;
+    margin-right: 20px;
 }
