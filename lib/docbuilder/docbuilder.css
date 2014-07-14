@@ -1,4 +1,12 @@
 .bookTitle {
     display: inline-block;
-    margin-right: 20px;
+}
+
+.bookStatus {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bookMenu {
+    vertical-align: text-bottom;
 }
