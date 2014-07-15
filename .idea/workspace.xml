@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d41878bc-f13e-45b4-83b1-6a4f99a90464" name="Default" comment="">
+    <list default="true" id="d41878bc-f13e-45b4-83b1-6a4f99a90464" name="Default" comment="Fixed some text in the UI">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -74,8 +74,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66831684" vertical-offset="225" max-vertical-offset="1530">
-              <caret line="60" column="99" selection-start-line="60" selection-start-column="99" selection-end-line="60" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.3019802" vertical-offset="160" max-vertical-offset="1605">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -525,7 +525,7 @@
       <workItem from="1404878929358" duration="4667000" />
       <workItem from="1405372529461" duration="220000" />
       <workItem from="1405372760817" duration="5424000" />
-      <workItem from="1405382553958" duration="11885000" />
+      <workItem from="1405382553958" duration="12602000" />
     </task>
     <task id="LOCAL-00001" summary="Working on initial style prototype">
       <created>1404878969198</created>
@@ -639,11 +639,15 @@
       <created>1405397252445</created>
       <updated>1405397252445</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Fixed some text in the UI">
+      <created>1405397605717</created>
+      <updated>1405397605717</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25615000" />
+    <option name="totallyTimeSpent" value="26332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1207" extended-state="6" />
@@ -706,7 +710,8 @@
     <MESSAGE value="Fixed the position of the build status icons" />
     <MESSAGE value="Fixed the title" />
     <MESSAGE value="Added link to the ZIP file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added link to the ZIP file" />
+    <MESSAGE value="Fixed some text in the UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some text in the UI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -924,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66831684" vertical-offset="225" max-vertical-offset="1530">
-          <caret line="60" column="99" selection-start-line="60" selection-start-column="99" selection-end-line="60" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.3019802" vertical-offset="160" max-vertical-offset="1605">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
