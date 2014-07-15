@@ -9,6 +9,7 @@
         <script src="lib/patternfly/js/patternfly.min.js"></script>
         <script src="lib/dummydata/dummy.js"></script>
         <script src="lib/docbuilder/config.js"></script>
+        <script src="lib/docbuilder/functions-1.8.js"></script>
         <script src="lib/docbuilder/listbooks.js"></script>
         <meta charset="UTF-8">
         <title></title>
@@ -27,7 +28,7 @@
                 </a>
             </div>
         </nav>
-        <div class="container-fluid">
+        <div id="mainContainer" class="container-fluid">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
                     <form class="form-horizontal">
@@ -35,42 +36,42 @@
                             <legend>Filter</legend>
 
                             <div class="form-group">
-                                <label class="col-md-2 control-label" for="id">ID</label>
+                                <label class="col-md-2 control-label" for="idFilter">ID</label>
                                 <div class="col-md-4">
-                                    <input id="id" type="text" class="form-control input-md">
+                                    <input id="idFilter" type="text" class="form-control input-md" onkeypress="javascript:save_filter()">
                                 </div>
 
-                                <label class="col-md-2 control-label" for="product">Product</label>
+                                <label class="col-md-2 control-label" for="productFilter">Product</label>
                                 <div class="col-md-4">
-                                    <input id="product" type="text" class="form-control input-md">
+                                    <input id="productFilter" type="text" class="form-control input-md" onkeypress="javascript:save_filter()">
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="col-md-2 control-label" for="version">Version</label>
+                                <label class="col-md-2 control-label" for="versionFilter">Version</label>
                                 <div class="col-md-4">
-                                    <input id="version" type="text" class="form-control input-md">
+                                    <input id="versionFilter" type="text" class="form-control input-md" onkeypress="javascript:save_filter()">
                                 </div>
 
-                                <label class="col-md-2 control-label" for="title">Title</label>
+                                <label class="col-md-2 control-label" for="titleFilter">Title</label>
                                 <div class="col-md-4">
-                                    <input id="title" type="text" class="form-control input-md">
+                                    <input id="titleFilter" type="text" class="form-control input-md" onkeypress="javascript:save_filter()">
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="col-md-2 control-label" for="topicid">Topic ID</label>
+                                <label class="col-md-2 control-label" for="topicIDFilter">Topic ID</label>
                                 <div class="col-md-4">
-                                    <input id="topicid" type="text" class="form-control input-md">
+                                    <input id="topicIDFilter" type="text" class="form-control input-md" onkeypress="javascript:save_filter()">
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="col-md-2 control-label" for="frozen">Show Frozen</label>
+                                <label class="col-md-2 control-label" for="specFrozenFilter">Show Frozen</label>
                                 <div class="col-md-4">
-                                    <input id="frozen" type="checkbox">
+                                    <input id="specFrozenFilter" type="checkbox" onchange="javascript:save_filter()">
                                 </div>
 
-                                <label class="col-md-2 control-label" for="obsolete">Show Obsolete</label>
+                                <label class="col-md-2 control-label" for="specObsoleteFilter">Show Obsolete</label>
                                 <div class="col-md-4">
-                                    <input id="obsolete" type="checkbox">
+                                    <input id="specObsoleteFilter" type="checkbox" onchange="javascript:save_filter()">
                                 </div>
                             </div>
                         </fieldset>
@@ -87,6 +88,10 @@
                     </div>
                 </div>
             </div>
+            <div class="text-center" style="display:none" id="noBooks">
+                <h1>No books match the filter</h1>
+            </div>
+
         </div>
     </body>
 </html>
