@@ -74,8 +74,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.916667" vertical-offset="1052" max-vertical-offset="1530">
-              <caret line="86" column="54" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="54" />
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1530">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -108,15 +108,15 @@
       <file leaf-file-name="listbooks.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22760041" vertical-offset="2059" max-vertical-offset="4485">
-              <caret line="152" column="51" selection-start-line="152" selection-start-column="51" selection-end-line="152" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.18125644" vertical-offset="2299" max-vertical-offset="4500">
+              <caret line="165" column="23" selection-start-line="165" selection-start-column="23" selection-end-line="165" selection-end-column="23" />
               <folding>
-                <marker date="1405393747959" expanded="true" signature="5799:5833" placeholder="..." />
-                <marker date="1405393747959" expanded="true" signature="6162:6248" placeholder="..." />
-                <marker date="1405393747959" expanded="true" signature="6211:6248" placeholder="..." />
-                <marker date="1405393747959" expanded="true" signature="6746:7072" placeholder="..." />
-                <marker date="1405393747959" expanded="true" signature="6858:6963" placeholder="..." />
-                <marker date="1405393747959" expanded="true" signature="7028:7072" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="5854:5888" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="6217:6303" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="6266:6303" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="6801:7127" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="6913:7018" placeholder="..." />
+                <marker date="1405394163725" expanded="true" signature="7083:7127" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -226,64 +226,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docbuilder" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DocBuilderRestyle" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -549,7 +491,7 @@
       <workItem from="1404878929358" duration="4667000" />
       <workItem from="1405372529461" duration="220000" />
       <workItem from="1405372760817" duration="5424000" />
-      <workItem from="1405382553958" duration="9028000" />
+      <workItem from="1405382553958" duration="9474000" />
     </task>
     <task id="LOCAL-00001" summary="Working on initial style prototype">
       <created>1404878969198</created>
@@ -635,11 +577,15 @@
       <created>1405392354304</created>
       <updated>1405392354304</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Fixing filtering">
+      <created>1405393765766</created>
+      <updated>1405393765766</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22758000" />
+    <option name="totallyTimeSpent" value="23204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1207" extended-state="6" />
@@ -737,12 +683,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1560">
           <caret line="62" column="67" selection-start-line="62" selection-start-column="67" selection-end-line="62" selection-end-column="67" />
           <folding>
-            <marker date="1405393747959" expanded="true" signature="5799:5833" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6162:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6211:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6746:7072" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6858:6963" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="7028:7072" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="5854:5888" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6217:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6266:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6801:7127" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6913:7018" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="7083:7127" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -788,12 +734,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1365">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <marker date="1405393747959" expanded="true" signature="5799:5833" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6162:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6211:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6746:7072" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6858:6963" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="7028:7072" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="5854:5888" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6217:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6266:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6801:7127" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6913:7018" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="7083:7127" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -831,12 +777,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1365">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <marker date="1405393747959" expanded="true" signature="5799:5833" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6162:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6211:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6746:7072" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6858:6963" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="7028:7072" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="5854:5888" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6217:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6266:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6801:7127" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6913:7018" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="7083:7127" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -870,16 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150660">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.916667" vertical-offset="1052" max-vertical-offset="1530">
-          <caret line="86" column="54" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,17 +853,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22760041" vertical-offset="2059" max-vertical-offset="4485">
-          <caret line="152" column="51" selection-start-line="152" selection-start-column="51" selection-end-line="152" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.18125644" vertical-offset="2299" max-vertical-offset="4500">
+          <caret line="165" column="23" selection-start-line="165" selection-start-column="23" selection-end-line="165" selection-end-column="23" />
           <folding>
-            <marker date="1405393747959" expanded="true" signature="5799:5833" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6162:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6211:6248" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6746:7072" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="6858:6963" placeholder="..." />
-            <marker date="1405393747959" expanded="true" signature="7028:7072" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="5854:5888" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6217:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6266:6303" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6801:7127" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="6913:7018" placeholder="..." />
+            <marker date="1405394163725" expanded="true" signature="7083:7127" placeholder="..." />
           </folding>
         </state>
       </provider>
