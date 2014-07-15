@@ -10,3 +10,8 @@
 .bookMenu {
     vertical-align: text-bottom;
 }
+
+.navbar-brand {
+    background: url(pressgang_icon_32px.png) no-repeat 20px 50%;
+    padding-left: 60px !important;
+}

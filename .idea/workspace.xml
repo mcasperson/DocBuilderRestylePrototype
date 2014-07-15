@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41878bc-f13e-45b4-83b1-6a4f99a90464" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/config.js" afterPath="$PROJECT_DIR$/lib/docbuilder/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" afterPath="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/docbuilder/pressgang_icon_32px.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" afterPath="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DocBuilderRestyle.iws" />
@@ -75,8 +76,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1530">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="63" />
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1530">
+              <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -94,22 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docbuilder.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="docbuilder.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/docbuilder/docbuilder.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="11" />
-              <folding>
-                <marker date="1405377922155" expanded="true" signature="55:105" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="0.21760155" vertical-offset="0" max-vertical-offset="1034">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listbooks.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="listbooks.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47476828" vertical-offset="2389" max-vertical-offset="4500">
+            <state vertical-scroll-proportion="-21.82" vertical-offset="1759" max-vertical-offset="4500">
               <caret line="190" column="50" selection-start-line="190" selection-start-column="50" selection-end-line="190" selection-end-column="50" />
               <folding>
                 <marker date="1405394295412" expanded="true" signature="5854:5888" placeholder="..." />
@@ -156,11 +155,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" />
         <option value="$PROJECT_DIR$/lib/dummydata/dummy.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/docbuilder/config.js" />
         <option value="$PROJECT_DIR$/lib/docbuilder/listbooks.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/docbuilder/docbuilder.css" />
       </list>
     </option>
   </component>
@@ -510,7 +509,7 @@
       <workItem from="1404878929358" duration="4667000" />
       <workItem from="1405372529461" duration="220000" />
       <workItem from="1405372760817" duration="5424000" />
-      <workItem from="1405382553958" duration="9587000" />
+      <workItem from="1405382553958" duration="10824000" />
     </task>
     <task id="LOCAL-00001" summary="Working on initial style prototype">
       <created>1404878969198</created>
@@ -604,11 +603,15 @@
       <created>1405394211850</created>
       <updated>1405394211850</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Fixing filtering">
+      <created>1405394325079</created>
+      <updated>1405394325079</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23317000" />
+    <option name="totallyTimeSpent" value="24554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-3" width="1924" height="1207" extended-state="6" />
@@ -695,9 +698,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="255">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <marker date="1405377922155" expanded="true" signature="55:105" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +747,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270">
           <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding>
-            <marker date="1405377922155" expanded="true" signature="55:105" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -789,9 +788,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270">
           <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding>
-            <marker date="1405377922155" expanded="true" signature="55:105" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -850,31 +847,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/docbuilder/docbuilder.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <marker date="1405377922155" expanded="true" signature="55:105" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/dummydata/dummy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="189509" max-vertical-offset="190590">
           <caret line="12700" column="2" selection-start-line="12700" selection-start-column="2" selection-end-line="12700" selection-end-column="2" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="1530">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/docbuilder/listbooks.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47476828" vertical-offset="2389" max-vertical-offset="4500">
+        <state vertical-scroll-proportion="-21.82" vertical-offset="1759" max-vertical-offset="4500">
           <caret line="190" column="50" selection-start-line="190" selection-start-column="50" selection-end-line="190" selection-end-column="50" />
           <folding>
             <marker date="1405394295412" expanded="true" signature="5854:5888" placeholder="..." />
@@ -898,6 +875,24 @@
             <marker date="1405394295412" expanded="true" signature="6932:7037" placeholder="..." />
             <marker date="1405394295412" expanded="true" signature="7102:7146" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/docbuilder/docbuilder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21760155" vertical-offset="0" max-vertical-offset="1034">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
