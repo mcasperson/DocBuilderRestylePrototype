@@ -80,16 +80,25 @@
                                     <input id="specObsoleteFilter" type="checkbox" onchange="javascript:save_filter()">
                                 </div>
                             </div>
+                            <div class="form-group">
+                                <label class="col-md-2 control-label" for="sortBy">Sort By</label>
+                                <div class="col-md-4">
+                                    <select id="sortBy" onchange="javascript:save_filter()">
+                                        <option value="Title">Title</option>
+                                        <option value="ID">ID</option>
+                                    </select>
+                                </div>
+                            </div>
                         </fieldset>
                     </form>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-5 col-lg-offset-1">
                     <div class="row" id="booklistleft">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-5">
                     <div class="row" id="booklistright">
                     </div>
                 </div>
